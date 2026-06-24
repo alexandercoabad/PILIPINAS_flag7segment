@@ -6,7 +6,16 @@
 
 Run it in your browser by clicking this link: https://fpga.vga-playground.pages.dev/?repo=https://github.com/alexandercoabad/PILIPINAS_flag7segment
 
-## What is Tiny Tapeout?
+## Layout
+
+
+<img width="1610" height="2258" alt="2D_flag" src="https://github.com/user-attachments/assets/a0d43f09-675b-421f-a023-64df823658f6" />
+
+<img width="463" height="639" alt="Screenshot 2026-06-24 at 1 52 14 PM" src="https://github.com/user-attachments/assets/2322a187-0133-40a5-bcbd-c10980016852" />
+
+
+Link to 3D viewer: https://gds-viewer.tinytapeout.com/?model=https://alexandercoabad.github.io/PILIPINAS_flag7segment/tinytapeout.oas&pdk=sky130A
+
 
 Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital and analog designs manufactured on a real chip.
 
