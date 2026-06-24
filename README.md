@@ -1,8 +1,14 @@
+
+
+
+
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
 # PILIPINAS flag in DVD-like screensaver and 7-segment display
 
 <img width="1274" height="654" alt="image" src="https://github.com/user-attachments/assets/f6202299-fb97-40bb-8ec7-b8c313b39da6" />
+
+https://github.com/user-attachments/assets/60bd00e5-5879-4c81-9a8c-a224bce7bac0
 
 Run it in your browser by clicking this link: https://fpga.vga-playground.pages.dev/?repo=https://github.com/alexandercoabad/PILIPINAS_flag7segment
 
