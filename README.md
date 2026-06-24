@@ -4,6 +4,7 @@
 
 <img width="1274" height="654" alt="image" src="https://github.com/user-attachments/assets/f6202299-fb97-40bb-8ec7-b8c313b39da6" />
 
+Run it in your browser by clicking this link: https://fpga.vga-playground.pages.dev/?repo=https://github.com/alexandercoabad/PILIPINAS_flag7segment
 
 ## What is Tiny Tapeout?
 
