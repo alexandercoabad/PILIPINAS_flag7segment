@@ -1,8 +1,9 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Verilog Project Template
+# PILIPINAS flag in DVD-like screensaver and 7-segment display
 
-- [Read the documentation for project](docs/info.md)
+<img width="1274" height="654" alt="image" src="https://github.com/user-attachments/assets/f6202299-fb97-40bb-8ec7-b8c313b39da6" />
+
 
 ## What is Tiny Tapeout?
 
